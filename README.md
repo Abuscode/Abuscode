@@ -4,7 +4,6 @@
 [![](https://img.shields.io/badge/-@abuscode-%23181717?style=flat-square&logo=github)](https://github.com/abuscode)
 [![](https://img.shields.io/badge/-@abubaker-%23000000?style=flat-square&logo=codepen)](https://codepen.io/abubaker)
 [![](https://img.shields.io/badge/-@abubaker-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/abubaker)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
 
 I ❤️ Software Testing (Manual & Automation)!
 
