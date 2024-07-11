@@ -1,5 +1,12 @@
 ## 𝙃𝙚𝙡𝙡𝙤, 👋
 # 𝙄'𝙢 **Shaikh Abu Baker Sidiq**
+[![](https://img.shields.io/badge/-@abubaker-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/abubaker)
+[![](https://img.shields.io/badge/-@abuscode-%23181717?style=flat-square&logo=github)](https://github.com/abuscode)
+[![](https://img.shields.io/badge/-@abubaker-%23000000?style=flat-square&logo=codepen)](https://codepen.io/abubaker)
+[![](https://img.shields.io/badge/-@abubaker-%23000000?style=flat-square&logo=codesandbox)](https://codesandbox.io/u/abubaker)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+
+
 <!--
 **Abuscode/Abuscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
