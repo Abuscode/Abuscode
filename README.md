@@ -26,6 +26,14 @@ I ❤️ Software Testing (Manual & Automation)!
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-FCA121?style=flat-square&logo=github)
+![JIRA issue](https://img.shields.io/jira/issue/:issueKey)
+![JIRA sprint completion](https://img.shields.io/jira/sprint/:sprintId)
+![Testspace tests](https://img.shields.io/testspace/tests/:org/:project/:space)
+![Testspace tests count](https://img.shields.io/testspace/:metric/:org/:project/:space)
+![Eclipse Marketplace Downloads](https://img.shields.io/eclipse-marketplace/:interval/:name)
+![Discord](https://img.shields.io/discord/:serverId)
+![Read the Docs](https://img.shields.io/readthedocs/:packageName)
+
 
 <!--
 **Abuscode/Abuscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
