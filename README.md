@@ -7,11 +7,10 @@
 
 I ❤️ Software Testing (Manual & Automation)!
 
-![](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
 
 :computer: A Software testing enthusiast with a passion for Automation.
 
-🖖 Selenium  | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ 𝘾𝙤𝙛𝙛𝙚𝙚 𝙡𝙤𝙫𝙚𝙧 | 🌵 Explorer
+🖖 Selenium  | 🍎 𝙎𝙬𝙞𝙛𝙩 𝙡𝙚𝙖𝙧𝙣𝙚𝙧 | ☕️ Java | 🌵 Explorer | 🐛 Bug Hunting |
 
 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 𝒃𝒓𝒊𝒏𝒈𝒊𝒏𝒈 𝒊𝒅𝒆𝒂𝒔 𝒕𝒐 𝒍𝒊𝒇𝒆. 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒂𝒍𝒍 𝒐𝒇 𝒎𝒚 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔.
 
@@ -49,6 +48,14 @@ I ❤️ Software Testing (Manual & Automation)!
 ![GitHub](https://img.shields.io/badge/-GitHub-FCA121?style=flat-square&logo=github)
 ![Discord](https://img.shields.io/discord/:serverId)
 ![Read the Docs](https://img.shields.io/readthedocs/:packageName)
+
+<img height="60" src="./svg/git.svg">        | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg
+<img height="60" src="./svg/java.svg">       | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg
+<img height="60" src="./svg/facebook.svg">   | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg
+<img height="60" src="./svg/github.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg
+<img height="60" src="./svg/google.svg">     | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg
+<img height="60" src="./svg/naver.svg">      | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/naver.svg
+<img height="60" src="./svg/twitter.svg">    | https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg
 
 
 <!--
